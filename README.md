@@ -1,2 +1,2 @@
 # aksara-sunda
-Font-font Aksara Sunda
+Font-font Aksara Sunda yang digunakan dalam naskah Bujangga Manik dari abad ke-15
